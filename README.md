@@ -10,7 +10,7 @@ A list of engineering values of different companies.
 - [Lullabot's Engineering Values](https://www.lullabot.com/engineering-values)
 - [Microsoft's Modern Engineering Vision](https://www.microsoft.com/en-us/insidetrack/transforming-modern-engineering-at-microsoft)
 - [Yapstone's Engineering Values](https://careers.yapstone.com/engineering-values)
-
+- [Scout24 Engineering Values and Principles](https://github.com/Scout24/scout24-engineering-values-and-principles)
 
 
 ## Broader Company Values
