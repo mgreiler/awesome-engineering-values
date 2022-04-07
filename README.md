@@ -14,6 +14,7 @@ A list of engineering values of different companies.
 - [Microsoft's Modern Engineering Vision](https://www.microsoft.com/en-us/insidetrack/transforming-modern-engineering-at-microsoft)
 - [Yapstone's Engineering Values](https://careers.yapstone.com/engineering-values)
 - [Scout24 Engineering Values and Principles](https://github.com/Scout24/scout24-engineering-values-and-principles)
+- [Artificial Intelligence at Google: our Principles](https://ai.google/principles/)
 
 
 ## Broader Company Values
